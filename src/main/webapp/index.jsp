@@ -16,9 +16,9 @@
 </head>
 <body>
 	<label for='un'>Enter Username</label>
-	<input id='un'/>
+	<input id='un'/><br/>
 	<label for='pd'>Enter Password</label>
-	<input id='pd' type='password'/>
+	<input id='pd' type='password'/><br/>
 	<button onclick="fun()">Submit</button>
 </body>
 </html>
