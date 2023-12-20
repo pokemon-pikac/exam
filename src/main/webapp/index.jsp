@@ -8,7 +8,7 @@
 				alert("Login Successfull");
 			}
 			else{
-				alert("Invalid username and password ");
+				alert("Invalid username or  password ");
 			}
 		}
 		
