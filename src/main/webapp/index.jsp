@@ -15,7 +15,7 @@
 	</script>
 </head>
 <body>
-	<label for='un'>Enter Name </label>
+	<label for='un'>Enter UserName </label>
 	<input id='un'/><br/>
 	<label for='pd'>Enter Password</label>
 	<input id='pd' type='password'/><br/>
